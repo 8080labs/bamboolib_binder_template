@@ -1,7 +1,7 @@
 # Create your own binder notebook
 
 1. Create a new GitHub repository from this template: Click on [this link](https://github.com/8080labs/bamboolib_binder_template/generate) to create a new repository that has the same folder structure as our template. Make sure that you create a public repository.
-    - Alternatively, you can also use the other public alternatives that binder supports. For example, your own hosted, public Git repository or a public GitLab repository.
+    - Alternatively, you can also use the other public alternatives that binder supports. For example, your own hosted public Git repository or a public GitLab repository.
 
 2. Use on any data you want:
 
