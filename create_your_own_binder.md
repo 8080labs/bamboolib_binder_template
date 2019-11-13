@@ -4,8 +4,8 @@
 
 2. Use other data:
 
-    - you can copy **smaller datasets** in the `data_for_container/` folder (you can use the `.parquet` file format to compress your files. pandas has [methods for reading and writing parquet files](https://pandas.pydata.org/pandas-docs/version/0.21/io.html#io-parquet)).
-    - for **larger datasets**, we recommend accessing them using web APIs (e.g. with the `requests` package).
+    - We recommend accessing other data using web APIs (e.g. with the `requests` package). This especially holds for **larger datasets**.
+    - If you have **small datasets** (< 1 MB in total), you can copy them into the `data_for_container/` folder (you can use the `.parquet` file format to compress your files. pandas has [methods for reading and writing parquet files](https://pandas.pydata.org/pandas-docs/version/0.21/io.html#io-parquet)).
 
 3. Add own Notebooks: copy your notebook files in the `data_for_container/`.
 
