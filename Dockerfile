@@ -12,7 +12,7 @@ RUN chown -R ${NB_UID} ${HOME}
 
 USER ${NB_USER}
 
-RUN pip install 'bamboolib>=1.2.0'
+RUN pip install 'bamboolib>=1.3.0'
 RUN jupyter nbextension enable --py qgrid --sys-prefix && \
     jupyter nbextension enable --py widgetsnbextension --sys-prefix && \
     jupyter nbextension install --py bamboolib --sys-prefix && \
