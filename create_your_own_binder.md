@@ -1,7 +1,13 @@
-# Create your own binder notebook
+# bamboolib is free on Binder!
 
-1. Create a new GitHub repository from this template: Click on [this link](https://github.com/8080labs/bamboolib_binder_template/generate) to create a new repository that has the same folder structure as our template. Make sure that you create a public repository.
-    - Alternatively, you can also use the other public alternatives that binder supports. For example, your own hosted public Git repository or a public GitLab repository.
+## Try out the Live Demo
+
+[Click here to try out bamboolib on Binder 🚀](https://mybinder.org/v2/gh/8080labs/bamboolib_binder_template/master?filepath=bamboolib_demo_titanic.ipynb)
+
+## Create your own Binder notebook
+
+1. Create a new GitHub repository from the template in this repo: Click on [this link](https://github.com/8080labs/bamboolib_binder_template/generate) to create a new repository that has the same folder structure as our template. Make sure that you create a public repository.
+    - Alternatively, you can also use the other public alternatives that Binder supports. For example, your own hosted public Git repository or a public GitLab repository.
 
 2. Use on any data you want:
 
@@ -11,6 +17,6 @@
 
 3. Add own Notebooks: copy your notebook files in the `data_for_container/`.
 
-4. Create your own binder link / button: Go to https://mybinder.org/ and fill in your repository's details.
+4. Create your own Binder link / button: Go to https://mybinder.org/ and fill in your repository's details.
 
-5. Share the binder link with your friends and the world.
+5. Share the Binder link with your friends and the world.
