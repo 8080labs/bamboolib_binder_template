@@ -2,7 +2,7 @@
 
 ## Try out the Live Demo
 
-[Click here to try out bamboolib on Binder 🚀](https://mybinder.org/v2/gh/8080labs/bamboolib_binder_template/master?filepath=bamboolib_demo_titanic.ipynb)
+[Click here to use bamboolib for free on Binder 🚀](https://mybinder.org/v2/gh/8080labs/bamboolib_binder_template/master?filepath=bamboolib_demo_titanic.ipynb)
 
 ## Create your own Binder notebook
 
