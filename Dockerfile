@@ -12,5 +12,5 @@ RUN chown -R ${NB_UID} ${HOME}
 
 USER ${NB_USER}
 
-RUN pip install 'bamboolib>=1.27.0'
+RUN pip install 'bamboolib>=1.28.0'
 RUN python -m bamboolib install_nbextensions
