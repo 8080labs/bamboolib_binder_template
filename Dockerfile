@@ -12,5 +12,5 @@ RUN chown -R ${NB_UID} ${HOME}
 
 USER ${NB_USER}
 
-RUN pip install 'numpy>=1.19.0' 'bamboolib>=1.28.0'
+RUN pip install 'numpy>=1.19.0' 'bamboolib>=1.29.1'
 RUN python -m bamboolib install_nbextensions
